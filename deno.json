@@ -1,0 +1,11 @@
+{ 
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "name":"@kl/demo1",
+  "version":"0.0.5",
+  "exports":{
+    ".":"./main.ts",
+    "./peo":"./peo.ts"
+  }
+}
