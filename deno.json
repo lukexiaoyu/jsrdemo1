@@ -3,9 +3,10 @@
     "dev": "deno run --watch main.ts"
   },
   "name":"@kl/demo1",
-  "version":"0.0.7",
+  "version":"0.0.8",
   "exports":{
     ".":"./main.ts",
-    "./peo":"./peo.ts"
+    "./peo":"./peo.ts",
+    "./hello":"./hello.js"
   }
 }
