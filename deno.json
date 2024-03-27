@@ -3,7 +3,7 @@
     "dev": "deno run --watch main.ts"
   },
   "name":"@kl/demo1",
-  "version":"0.0.6",
+  "version":"0.0.7",
   "exports":{
     ".":"./main.ts",
     "./peo":"./peo.ts"
